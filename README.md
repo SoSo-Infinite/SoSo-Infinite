@@ -52,7 +52,7 @@ High-Velocity Delivery
 
 Rapid Prototyping (MVP to Production in <1 day), Tooling & AI Orchestration, Modern Framework Proficiency (React/Angular).
 
-🤖 AI Policy Statement (Own the Vibe)
+🤖 AI Policy Statement 
 
 "In an era of advanced tooling, my primary role is as an Architectural Director. I utilize the Gemini API and other generative platforms not as a simple coding tool, but as a force multiplier to validate architectural choices, accelerate boilerplate creation, and manage the execution of production-ready systems. The architecture and strategic direction are 100% human-designed and owned."
 
